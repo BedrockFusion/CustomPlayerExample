@@ -1,0 +1,5 @@
+name: CustomPlayerExample
+version: 1.0.0
+api: 5.0.0
+author: nonsense
+main: scher\customplayer\Loader
